@@ -17,6 +17,3 @@ Excited to share my latest Power BI dashboard titled - Market Retail Sales Dashb
      👉• DAX calculations
      👉• Interactive report design
      👉• Visual storytelling for decision-making
-
-     🚀I am continuously working on improving my analytics and visualization capabilities.
-     💫Looking forward to applying these skills in real-world business environments.
